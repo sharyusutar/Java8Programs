@@ -1,4 +1,4 @@
-package com.java8.streams.Optional;
+package com.java8.Optional;
 import java.util.Optional;
 public class UsingOptionalHandleMissingRateRevisionData {
     static String getRefreshFrequency(

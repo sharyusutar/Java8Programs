@@ -1,4 +1,4 @@
-package com.java8.streams.anyMatch;
+package com.java8.Streams.anyMatch;
 
 import java.util.*;
 
