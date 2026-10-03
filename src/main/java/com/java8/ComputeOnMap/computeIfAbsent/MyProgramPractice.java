@@ -1,4 +1,4 @@
-package com.java8.Map.computeIfAbsent;
+package com.java8.ComputeOnMap.computeIfAbsent;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.java8.Streams.streamObjectsIntoMap;
+package com.java8.Streams.TerminalOperations.collect.ObjectsIntoMap;
 
 import java.util.Arrays;
 import java.util.List;

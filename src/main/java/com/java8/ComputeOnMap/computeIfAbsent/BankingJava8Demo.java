@@ -1,16 +1,10 @@
-package com.java8.Map.computeIfAbsent;
+package com.java8.ComputeOnMap.computeIfAbsent;
 
 import java.math.BigDecimal;
 import java.time.Instant;
 import java.time.LocalDate;
 import java.time.ZoneId;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Objects;
+import java.util.*;
 
 /** Standalone Java 8 examples. No external libraries or services required. */
 public class BankingJava8Demo {

@@ -1,4 +1,4 @@
-package com.java8.Streams.reduce.disbursement.calculation;
+package com.java8.Streams.TerminalOperations.reduce;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

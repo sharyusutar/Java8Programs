@@ -1,6 +1,7 @@
-package com.java8.Streams.anyMatch;
+package com.java8.Streams.TerminalOperations.anyMatch;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
 
 public class CheckAtleastOneAddressBelongParty {
 
