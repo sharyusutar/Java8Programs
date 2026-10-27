@@ -4,7 +4,7 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CompletionException;
 
 /** Standalone Java 8+ demo. No Spring or external dependencies required. */
-public class CompletableFutureExample {
+public class CF_E1_CompletableFutureExample {
     public static void main(String[] args) {
         demonstrate(true, false);
         demonstrate(false, false);
