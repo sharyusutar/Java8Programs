@@ -1,6 +1,5 @@
-package com.java8.interviewquestions.WorldLine;
+package com.java8.InterviewQuestions.WorldLine;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 

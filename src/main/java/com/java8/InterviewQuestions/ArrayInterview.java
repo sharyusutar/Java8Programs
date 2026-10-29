@@ -1,8 +1,6 @@
-package com.java8.interviewquestions;
+package com.java8.InterviewQuestions;
 import java.util.*;
-import java.util.function.Function;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class ArrayInterview {
 
@@ -14,6 +12,10 @@ public class ArrayInterview {
 
         OptionalInt min=Arrays.stream(arr).min();
         OptionalInt max=Arrays.stream(arr).max();
+
+        //2. Sum and average
+
+
     }
 
 

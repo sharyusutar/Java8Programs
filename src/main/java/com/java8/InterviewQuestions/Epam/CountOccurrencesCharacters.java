@@ -1,6 +1,5 @@
-package com.java8.interviewquestions.Epam;
+package com.java8.InterviewQuestions.Epam;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;

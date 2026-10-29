@@ -1,4 +1,4 @@
-package com.java8.interviewquestions.Epam;
+package com.java8.InterviewQuestions.Epam;
 
 import java.util.*;
 

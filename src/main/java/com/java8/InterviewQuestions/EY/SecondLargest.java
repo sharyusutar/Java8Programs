@@ -1,8 +1,7 @@
-package com.java8.interviewquestions.EY;
+package com.java8.InterviewQuestions.EY;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.stream.Collectors;
 
 public class SecondLargest {
 
