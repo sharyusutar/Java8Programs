@@ -25,16 +25,11 @@ public class GroupAnagrams {
         Map<String, List<String>> map=new HashMap<>();
         for(String str : strs){
            char[] chars=str.toCharArray();
-           System.out.println("chars : "+ Arrays.toString(chars));
-           Arrays.sort(chars);
-           System.out.println("sort(chars) : "+ Arrays.toString(chars));
+            Arrays.sort(chars);
 
             String key=new String(chars);
-            System.out.println("key : "+key);
 
             map.computeIfAbsent(key,k->new ArrayList<>()).add(str);
-            System.out.println("map : "+map);
-            System.out.println("----------------------------------------------------");
 
         }
         return new ArrayList<>(map.values());
