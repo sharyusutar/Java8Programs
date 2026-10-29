@@ -1,4 +1,4 @@
-package com.java8.demo;
+package com.java8.interviewquestions;
 
 import java.util.*;
 import java.util.function.Function;
