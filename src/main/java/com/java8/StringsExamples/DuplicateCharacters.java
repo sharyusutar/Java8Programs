@@ -17,6 +17,11 @@ public class DuplicateCharacters {
                                 Function.identity(),
                                 Collectors.counting()));
 
+        Map<Character, Long> result1=str
+                .chars()
+                .mapToObj(c->(char)c)
+                .collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
+
         result.entrySet()
                 .stream()
                 .filter(e -> e.getValue() > 1)
